@@ -1,0 +1,22 @@
+body{
+    background: linear-gradient(rgb(0,255,0), rgb(0, 255, 255), rgb(25, 0, 255));
+    background-attachment: fixed;
+}
+
+h1{
+    text-align: center;
+}
+.table-for-api{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    margin: auto;
+}
+
+h2{
+    text-align: center;
+}
+
+tr, th, td{
+    border: 1px solid black;
+    text-align: center;
+    padding: 8px;
+}
