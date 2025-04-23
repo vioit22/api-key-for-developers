@@ -1,21 +1,24 @@
 body{
-    background: linear-gradient(rgb(0,255,0), rgb(0, 255, 255), rgb(25, 0, 255));
+    background: linear-gradient(rgb(0,255,0), rgb(0, 255, 255), rgb(0, 110, 255));
     background-attachment: fixed;
 }
 
 h1{
     text-align: center;
+    color: blue;
 }
+
 .table-for-api{
     font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
     margin: auto;
+    border-collapse: collapse;
 }
 
 h2{
     text-align: center;
 }
 
-tr, th, td{
+th, td{
     border: 1px solid black;
     text-align: center;
     padding: 8px;
